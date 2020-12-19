@@ -1,4 +1,4 @@
-# kbdxkey
+# kbdgtk
 
 This is a keyboard for Windows with [X compose key](https://cgit.freedesktop.org/xorg/lib/libX11/plain/nls/en_US.UTF-8/Compose.pre)-style AltGr combinations built in. Painstakingly created because I had to use Windows for a while and couldn't live without shortcuts for ellipses and em dashes. 
 
